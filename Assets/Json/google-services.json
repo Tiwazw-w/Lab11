@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "674575811144",
+    "firebase_url": "https://cositos-omar-default-rtdb.firebaseio.com",
+    "project_id": "cositos-omar",
+    "storage_bucket": "cositos-omar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674575811144:android:6cab4d70ecd3c0377e8e7d",
+        "android_client_info": {
+          "package_name": "com.TiwazGaming.Cositos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXqVMC4vqqRN2cIFHSeXzolFJIFX-rKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
